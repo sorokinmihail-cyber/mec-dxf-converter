@@ -1,0 +1,13 @@
+{
+  "name": "mec-dxf-converter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline conversion of Lantek MEC 8.x and 9.2 drawings",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --openssl-legacy-provider --test"
+  }
+}
